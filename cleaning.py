@@ -1,4 +1,3 @@
-# code was initially all written and executed via google colab, transported to github for ease of accessibility 
 from google.colab import files
 uploaded = files.upload() 
 
